@@ -1,0 +1,2 @@
+{:require [app.app]
+ :compiler-options  {:asset-path "main.out"}}

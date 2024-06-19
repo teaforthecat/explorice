@@ -1,0 +1,8 @@
+Leiningen.gitignore
+.nrepl-port
+target/
+out/
+.vscode/
+.calva/
+.clj-kondo/
+.lsp/
